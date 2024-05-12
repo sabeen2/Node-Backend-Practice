@@ -1,0 +1,23 @@
+{
+  "name": "nodebackend",
+  "version": "1.0.0",
+  "description": "practice project for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabeen2/Node-Backend-Practice.git"
+  },
+  "author": "Sabin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabeen2/Node-Backend-Practice/issues"
+  },
+  "homepage": "https://github.com/sabeen2/Node-Backend-Practice#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
